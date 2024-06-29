@@ -1,0 +1,10 @@
+body {
+    background-image: url(img/multimedia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 20px;
+    color: aliceblue;
+}
